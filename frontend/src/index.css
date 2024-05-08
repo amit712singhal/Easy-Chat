@@ -1,0 +1,10 @@
+html, body{
+  margin: 0;
+  padding: 0;
+ color: white;
+  background: #000;
+}
+
+.image-inverted{
+  filter:invert(100%);
+}
